@@ -1,14 +1,6 @@
 import { useState } from "react";
 import EquationList from "./EquationList";
 
-const PRESETS_3D = [
-  "sin(sqrt(x^2+y^2))",
-  "sin(x)*cos(y)",
-  "x*y/5",
-  "abs(x)+abs(y)",
-  "cos(x^2+y^2)/2",
-  "(x^2-y^2)/6",
-];
 
 export default function Sidebar({
   mode, setMode,
