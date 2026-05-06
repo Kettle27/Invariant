@@ -2,6 +2,9 @@
 
 A Desmos-style graphing calculator built with React and Three.js.
 
+## Website
+Try out Invariant yourself at: https://invariant-sigma.vercel.app/
+
 ## Features
 - 2D graphing with pan and zoom
 - Implicit equations (e.g. x^2 + y^2 = 25)
